@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite verbose="0" name="QED42 Assessment Test">
+
+	<test name="Assessment Test">
+		<classes>
+			<class name="com.qa.test.Basic.tests.Filter_Scenario_Test" />
+		</classes>
+	</test>
+
+</suite>
